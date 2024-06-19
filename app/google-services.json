@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601478205671",
+    "project_id": "recetario-45f6b",
+    "storage_bucket": "recetario-45f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601478205671:android:c7d781e9b696018156d242",
+        "android_client_info": {
+          "package_name": "com.palacios.recetario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601478205671-gmfu7a8sem35ebnisf953g0cscs615i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palacios.recetario",
+            "certificate_hash": "c848482e3d05befa36bcb43697a746e524de3d0b"
+          }
+        },
+        {
+          "client_id": "601478205671-ckhoaeuivkaukj7jcp4m8o7tdia26si7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrV6y6dgzr-a9XiDSG9tE9KFe5JmKmJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601478205671-ckhoaeuivkaukj7jcp4m8o7tdia26si7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

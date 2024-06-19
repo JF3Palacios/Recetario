@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Recetario</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="default_web_client_id">601478205671-gmfu7a8sem35ebnisf953g0cscs615i7.apps.googleusercontent.com</string>
+
+    <!-- Arrays for categories and types -->
+    <string-array name="categories">
+        <item>Entrantes</item>
+        <item>Primer plato</item>
+        <item>Segundo plato</item>
+        <item>Postres</item>
+        <item>Batidos</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Ninguno</item>
+        <item>Carnes</item>
+        <item>Pescados</item>
+    </string-array>
 </resources>
