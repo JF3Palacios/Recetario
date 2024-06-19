@@ -23,12 +23,11 @@
         </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".RecipeActivity"
             android:exported="false">
-
         </activity>
         <activity
-            android:name=".RecipeActivity"
+            android:name=".SeleccionActivity"
             android:exported="false">
         </activity>
     </application>

@@ -98,7 +98,7 @@ class RegisterActivity : AppCompatActivity() {
     }
 
     private fun showHome(email: String) {
-        val homeIntent = Intent(this, RecipeActivity::class.java).apply {
+        val homeIntent = Intent(this, SeleccionActivity::class.java).apply {
             putExtra("email", email)
         }
         startActivity(homeIntent)

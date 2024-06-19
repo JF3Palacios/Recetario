@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/agregarRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar" />
+
+    <Button
+        android:id="@+id/modificaRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Modificar"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/borraRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Borrar"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/verRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/salirApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerrar Aplicación"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

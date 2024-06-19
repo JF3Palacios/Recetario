@@ -5,6 +5,7 @@
 
     <!-- Arrays for categories and types -->
     <string-array name="categories">
+
         <item>Entrantes</item>
         <item>Primer plato</item>
         <item>Segundo plato</item>
@@ -13,7 +14,7 @@
     </string-array>
 
     <string-array name="types">
-        <item>Ninguno</item>
+
         <item>Carnes</item>
         <item>Pescados</item>
     </string-array>
