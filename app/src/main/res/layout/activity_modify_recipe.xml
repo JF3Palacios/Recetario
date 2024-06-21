@@ -58,13 +58,27 @@
             android:hint="Modo de preparación" />
 
         <Button
+            android:id="@+id/selectImageButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccionar Imagen" />
+
+        <ImageView
+            android:id="@+id/recipeImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerInside"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/ic_placeholder_image" />
+
+        <Button
             android:id="@+id/modifyRecipeButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Modificar Receta" />
 
         <Button
-            android:id="@+id/salirModifyRecipeButton"
+            android:id="@+id/modifySalirRecipeButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Salir" />

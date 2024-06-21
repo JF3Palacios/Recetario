@@ -7,5 +7,5 @@ data class Recipe(
     val ingredientes: String = "",
     val tiempoPreparacion: String = "",
     val modoPreparacion: String = "",
-    val imagenUrl: String =""
+    var imagenUrl: String =""
 )
