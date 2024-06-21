@@ -30,6 +30,18 @@
             android:name=".SeleccionActivity"
             android:exported="false">
         </activity>
+        <activity
+            android:name=".ModifyRecipeActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".DeleteRecipeActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".ViewRecipeActivity"
+            android:exported="false">
+        </activity>
     </application>
 
 </manifest>
